@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @salinaedwards!
 - 👀 I’m interested in ... the minds of humans!
 - 🌱 I’m currently ... slacking off!
-- 💞️ I’m looking to collaborate on ... fun stuff (ideally, such that doesn't require a lot of effort on my part)!
+- 💞️ I’m looking to collaborate on ... fun stuff!
 - 📫 How to reach me ... find my website! 
-- 😄 Pronouns: ... she/her/they/them!
+- 😄 Pronouns: ... she/her/hers!
 - ⚡ Fun fact: ... i grew up on a cattle ranch!
 
 <!---
