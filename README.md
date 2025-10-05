@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Salina Edwards!
-- 👀 I’m interested in ... the minds of humans!
-- 🌱 I’m currently ... slacking off!
+- 👀 I’m interested in ... human interaction with technology and AI!
+- 🌱 I’m currently ... drinking coffee and working hard!
 - 💞️ I’m looking to collaborate on ... fun stuff!
-- 📫 How to reach me ... find my website! 
+- 📫 How to reach me ... send me an email and say hello! 
 - 😄 Pronouns: ... she/her/hers!
-- ⚡ Fun fact: ... i grew up on a cattle ranch!
+- ⚡ Fun fact: ... i grew up on a cattle ranch in northern BC!
 
 <!---
 salinaedwards/salinaedwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
