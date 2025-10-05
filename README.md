@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salinaedwards!
+- 👋 Hi, I’m Salina Edwards!
 - 👀 I’m interested in ... the minds of humans!
 - 🌱 I’m currently ... slacking off!
 - 💞️ I’m looking to collaborate on ... fun stuff!
